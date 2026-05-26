@@ -60,7 +60,6 @@ python3 src/demo.py
 ![c3](c3.png)
 
 
-
 ---
 
 ## 📁 **Project Structure**
