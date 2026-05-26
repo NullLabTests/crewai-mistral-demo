@@ -1,3 +1,5 @@
+
+
 🚀 Starting CrewAI + Mistral Demo...
 ╭────────────────────── 🚀 Crew Execution Started ──────────────────────╮
 │                                                                       │
