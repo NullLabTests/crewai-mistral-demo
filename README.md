@@ -1,4 +1,10 @@
 # CrewAI + Mistral AI Demo
+
+![CI](https://github.com/NullLabTests/crewai-mistral-demo/actions/workflows/python-ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/NullLabTests/crewai-mistral-demo?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/NullLabTests/crewai-mistral-demo?style=flat-square)
+
 ![CI](https://github.com/NullLabTests/crewai-mistral-demo/actions/workflows/python-ci.yml/badge.svg)
 
 *A production-ready demo of multi-agent AI with Mistral.*
