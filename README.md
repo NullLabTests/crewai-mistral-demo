@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/NullLabTests/crewai-mistral-demo?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/NullLabTests/crewai-mistral-demo?style=flat-square)
 
-![CI](https://github.com/NullLabTests/crewai-mistral-demo/actions/workflows/python-ci.yml/badge.svg)
+
 
 *A production-ready demo of multi-agent AI with Mistral.*
 
