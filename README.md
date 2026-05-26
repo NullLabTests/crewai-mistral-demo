@@ -6,7 +6,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/NullLabTests/crewai-mistral-demo?style=flat-square)
 
 
-
 *A production-ready demo of multi-agent AI with Mistral.*
 
 ![CrewAI + Mistral](https://img.shields.io/badge/CrewAI-0.1.0-blue?style=flat-square)
