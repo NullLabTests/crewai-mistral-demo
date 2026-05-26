@@ -55,6 +55,13 @@ python3 src/demo.py
 ```
 *Watch as the Researcher and Writer agents collaborate to generate a blog post about AI trends for 2026!*
 
+
+![c1](images/c1.png)
+![c2](images/c2.png)
+![c3](images/c3.png)
+
+
+
 ---
 
 ## 📁 **Project Structure**
