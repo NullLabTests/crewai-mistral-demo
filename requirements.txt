@@ -61,7 +61,7 @@ importlib_metadata==8.7.1
 importlib_resources==7.1.0
 instructor==1.15.1
 ipykernel==7.2.0
-ipython==9.11.0
+ipython>=8.0.0
 ipython_pygments_lexers==1.1.1
 isoduration==20.11.0
 jedi==0.19.2
